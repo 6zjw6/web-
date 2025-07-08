@@ -1,0 +1,29 @@
+{
+    "room123": {
+        "host": "admin",
+        "webdav": {
+            "url": "https://your-webdav-server.com",
+            "user": "webdav_username",
+            "pass": "webdav_password"
+        },
+        "members": [
+            "admin",
+            "test_user"
+        ],
+        "messages": [
+            {
+                "username": "admin",
+                "message": "Hello everyone!",
+                "time": "14:30:25"
+            },
+            {
+                "username": "test_user",
+                "message": "Hi there!",
+                "time": "14:31:00"
+            }
+        ],
+        "currentVideo": "movie.mp4",
+        "currentTime": 125.5,
+        "lastUpdate": 1704200000
+    }
+} 
